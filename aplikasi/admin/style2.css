@@ -1,0 +1,83 @@
+*{margin: 0px; padding: 0px;}
+nav {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-family: sans-serif;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+	background-color: white;
+}
+body {
+	background-color: #eee;
+}
+footer {
+    padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-family: sans-serif;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+	background-color: white;
+	width: 100%;
+	bottom: 0;
+	position: absolute;
+}
+.tabel {
+	width: 99%;
+	text-align: center;
+}
+.cardnav {
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+	width: 75px;
+	height: 30px;
+	text-align: center;
+	background-color: white;
+	margin: 10px 0px 10px 10px;
+}
+.formcard {
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+	height: 50%;
+	width: 99%;
+	display: flex;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: white;
+}
+.formcard2 {
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+	width: 200px;
+	height: 200px;
+	padding-top: 10px;
+}
+.formcard3 {
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+	width: 82%;
+	height: 200px;
+	padding-top: 10px;
+	margin-left: 10px;
+}
+.formcard4 {
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+	width: 22%;
+	height: 280px;
+	margin-left: 500px;
+	padding-top: 10px;
+	background-color: white;
+	text-align: center;
+}
+.formcard44 {
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+	width: 22%;
+	height: 380px;
+	margin-left: 500px;
+	padding-top: 10px;
+	background-color: white;
+	text-align: center;
+}

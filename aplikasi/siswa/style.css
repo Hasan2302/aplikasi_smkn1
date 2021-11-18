@@ -1,0 +1,47 @@
+*{margin: 0px; padding: 0px;}
+nav	{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-family: sans-serif;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+	background-color: white;
+}
+body {
+	background-color: #eee;
+}
+footer {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-family: sans-serif;
+	box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+	background-color: white;
+	bottom: 0;
+	position: absolute;
+}
+.tabel {
+	width: 90%;
+	margin-left: 10px;
+}
+.cardnav {
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+	width: 10%;
+	height: 5%;
+}
+.formcard {
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+	width: 99%;
+	height: 50%;
+	display: flex;
+}
+.formcard2 {
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.5);
+	width: 8%;
+	height: 5%;
+	display: flex;
+	margin-left: 10px;
+}
